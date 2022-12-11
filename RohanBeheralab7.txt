@@ -1,0 +1,17 @@
+Average Query time without indexes
+Query1: 20.464 ms
+Query2: 51.413 ms
+Query3: 75.904 ms
+Query4: 44.911 ms
+Query5: 146.089 ms
+Query6: 48.158 ms
+
+Average Query time with indexes
+Query1: 12.577 ms
+Query2: 49.882 ms
+Query3: 24.528 ms
+Query4: 51.277 ms
+Query5: 442.207 ms
+Query6: 48.597 ms
+
+measure.sh script was run 5 times to get an average query time in ms with and without using indexes. 
